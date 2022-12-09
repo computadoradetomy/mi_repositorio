@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+
+header {
+    display: flex;
+    min-height: 70px;
+    background-color: #0d6efd;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+}
+
+section {
+    border: 2px solid gainsboro;
+    border-radius: 18px;
+    padding: 20px;
+  }
+
+
+
+/* Márgenes */
+main {
+    margin-top: 1;
+    margin-bottom: 1;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+/* Footer */
+footer {
+    padding: 50px;
+    text-align: center;
+    background: #E6E6E6;
+    margin-top: 100px;
+}
